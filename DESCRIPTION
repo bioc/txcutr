@@ -8,12 +8,12 @@ Description: Various mRNA sequencing library preparation methods generate
     implements some convenience methods for readily generating such truncated 
     annotations and their corresponding sequences.
 Version: 1.9.1
-Date: 2024-03-19
+Date: 2024-04-18
 Authors@R: 
     person(given = "Mervin",
            family = "Fansler",
            role = c("aut", "cre"),
-           email = "mef3005@med.cornell.edu",
+           email = "fanslerm@mskcc.org",
            comment = c(ORCID = "0000-0002-4108-4218"))
 License: GPL-3
 Encoding: UTF-8
